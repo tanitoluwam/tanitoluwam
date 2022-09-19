@@ -17,5 +17,5 @@ I am open to new knowledge and this makes me a valuable addition to any team...
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanitoluwaadenuga&show_icons=true&include_all_commits=true&hide_border=true" alt="Tanitoluwa's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanitoluwaadenuga&langs_count=8&layout=compact&hide_border=true" alt="Tanitoluwa's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanitoluwam&show_icons=true&include_all_commits=true&hide_border=true" alt="Tanitoluwa's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanitoluwam&langs_count=8&layout=compact&hide_border=true" alt="Tanitoluwa's GitHub stats" /> |
 | ------------- | ------------- |
