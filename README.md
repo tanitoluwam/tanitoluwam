@@ -12,7 +12,7 @@ I am open to new knowledge and this makes me a valuable addition to any team...
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 Currently I work with  JavaScript, Reactjs, and Nextjs.
 - 😊 I seek opportunities in open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing tanitoluwaadenuga@gmail.com.
 
 ---
